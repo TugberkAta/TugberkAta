@@ -1,5 +1,9 @@
 # 💫 About Me
-Driven web developer with a passion for continuous learning and tackling new challenges. Seeking to make a significant impact in the technology industry by leveraging my creativity and problem-solving skills.
+Driven web developer with a passion for continuous learning and tackling new challenges. Seeking to make a significant impact in the technology industry by leveraging my creativity and problem-solving skills. Visit my portfolio: https://www.tugberkata.com
+
+## 🪐 Visit My Portfolio
+
+https://www.tugberkata.com
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuğberk-ata-617721162/) 
