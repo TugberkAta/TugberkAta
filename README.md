@@ -1,5 +1,5 @@
 # 💫 About Me
-Driven web developer with a passion for continuous learning and tackling new challenges. Seeking to make a significant impact in the technology industry by leveraging my creativity and problem-solving skills. Visit my portfolio: https://www.tugberkata.com
+Driven web developer with a passion for continuous learning and tackling new challenges. Seeking to make a significant impact in the technology industry by leveraging my creativity and problem-solving skills.
 
 ## 🪐 Visit My Portfolio
 
